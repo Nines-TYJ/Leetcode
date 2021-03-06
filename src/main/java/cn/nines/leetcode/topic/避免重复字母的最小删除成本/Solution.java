@@ -1,4 +1,4 @@
-package cn.nines.leetcode.避免重复字母的最小删除成本;
+package cn.nines.leetcode.topic.避免重复字母的最小删除成本;
 
 /**
  * 1578. 避免重复字母的最小删除成本

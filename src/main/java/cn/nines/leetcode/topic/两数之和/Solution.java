@@ -1,4 +1,4 @@
-package cn.nines.leetcode.两数之和;
+package cn.nines.leetcode.topic.两数之和;
 
 import java.util.Arrays;
 import java.util.HashMap;

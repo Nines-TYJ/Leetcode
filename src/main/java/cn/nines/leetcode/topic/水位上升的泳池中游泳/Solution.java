@@ -1,4 +1,4 @@
-package cn.nines.leetcode.水位上升的泳池中游泳;
+package cn.nines.leetcode.topic.水位上升的泳池中游泳;
 
 import java.util.Comparator;
 import java.util.HashMap;

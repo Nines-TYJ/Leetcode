@@ -1,6 +1,6 @@
-package cn.nines.leetcode.两数相加;
+package cn.nines.leetcode.topic.两数相加;
 
-import cn.nines.leetcode.两数之和.ListNode;
+import cn.nines.leetcode.topic.两数之和.ListNode;
 
 /**
  * 2. 两数相加

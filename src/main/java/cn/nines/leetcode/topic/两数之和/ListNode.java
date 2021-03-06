@@ -1,4 +1,4 @@
-package cn.nines.leetcode.两数之和;
+package cn.nines.leetcode.topic.两数之和;
 
 /**
  * 单向链表

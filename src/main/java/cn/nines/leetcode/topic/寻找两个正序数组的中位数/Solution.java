@@ -1,4 +1,4 @@
-package cn.nines.leetcode.寻找两个正序数组的中位数;
+package cn.nines.leetcode.topic.寻找两个正序数组的中位数;
 
 import java.util.Arrays;
 

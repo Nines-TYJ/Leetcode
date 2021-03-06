@@ -1,4 +1,4 @@
-package cn.nines.leetcode.无重复字符的最长子串;
+package cn.nines.leetcode.topic.无重复字符的最长子串;
 
 import java.util.*;
 
